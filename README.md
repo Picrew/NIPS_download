@@ -46,3 +46,8 @@ Get Paper_links.txt
 ### Batch downloads
 
 ![Batch downloads](./images/Batch_download.jpg)
+
+## Key_words
+```bash
+python find_key_words.py
+```
