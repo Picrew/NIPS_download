@@ -4,6 +4,7 @@
 
 ​	Download NIPS all PDF files by ***Python web crawlers*** and  ***IDM Batch downloads***.
 
+* [Proceedings of Machine Learning Research](https://proceedings.mlr.press/)
 * [NeurIPS Proceedings](https://proceedings.neurips.cc//)
 
 ## Requirements
